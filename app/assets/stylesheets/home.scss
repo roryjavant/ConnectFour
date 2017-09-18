@@ -1,0 +1,39 @@
+// Place all the styles related to the Home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+p { 
+	display: inline-block;
+	width: 60px;
+
+}
+
+.center {
+	text-align:center;
+        border: 3px solid green;
+}
+
+#board  {
+        
+}
+
+td {
+       height: 100px;
+       width: 100px;
+       border: 1px solid black;
+       border-collapse: collapse;
+}
+
+#board-container {
+       
+	width: 100%;
+}
+
+	
+#imageOne {
+	position:absolute;
+}			
+	
+#tag {
+	position:absolute;
+}
